@@ -1,3 +1,3 @@
-                                          Recipe search using EDAMAM API
+Cookbook using EDAMAM API
       
-      Deployment URL: https://recipe-search-edamam-api.netlify.app/
+Implemented with HTML, CSS, Javascript
